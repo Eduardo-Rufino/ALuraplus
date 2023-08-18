@@ -1,2 +1,2 @@
-# ALuraplus
+# Aluraplus
 Curso HTML e CSS Alura
